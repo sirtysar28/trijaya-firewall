@@ -1,0 +1,23 @@
+/* Editor style — Sora + Inter, sinkron dengan front-end */
+body {
+	font-family: 'Inter', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+	color: #47536b;
+	font-size: 1rem;
+	line-height: 1.7;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Sora', ui-sans-serif, system-ui, sans-serif;
+	color: #0d1b33;
+	letter-spacing: -0.02em;
+	line-height: 1.18;
+}
+a { color: #1d6ff2; }
+blockquote {
+	background: #f5f8fd;
+	border-left: 4px solid #1d6ff2;
+	padding: 20px 26px;
+	border-radius: 0 12px 12px 0;
+	font-style: italic;
+}
+img { border-radius: 12px; }
+.wp-block-button__link { border-radius: 999px !important; font-family: 'Sora', sans-serif; }

@@ -1,0 +1,20 @@
+/*
+Theme Name: Trijaya Firewall
+Theme URI: https://trijayasolution.com
+Author: Tim Trijaya Solution
+Author URI: https://trijayasolution.com
+Description: Theme modern & kekinian untuk website bisnis network security, cyber security, dan firewall. Dibangun untuk Trijaya Firewall — dilengkapi struktur menu lengkap 3 level (Solutions, Services, Products, Industries, Projects, Insights, About Us, Contact), import demo content via JSON (100+ halaman berkonten SEO), hero slider animasi, AI Chat (Groq), integrasi Elementor penuh, Google Fonts Sora + Inter, desain light yang responsif anti-overflow di mobile, PWA-ready (installable & offline), serta pengaturan kustom lengkap via Customizer. Kompatibel WordPress terbaru & PHP 8.2+.
+Version: 1.4.7
+Requires at least: 6.0
+Tested up to: 7.1
+Requires PHP: 8.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: trijaya-firewall
+Tags: business, corporate, blog, one-column, two-columns, custom-colors, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready, block-styles, wide-blocks
+*/
+
+/*
+Main stylesheet ada di assets/css/main.css (di-enqueue via functions.php).
+File ini hanya berisi theme header WordPress.
+*/
